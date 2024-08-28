@@ -1,0 +1,38 @@
+# general
+workers: 1
+
+#dataset: "Houston"
+#dataset_root: 'D:\\Python\\Datasets\\MultiModalRS-Data\\HS-MS-Houston2013\\'
+#model_path:  "save/Houston"
+#seed: 43 #43
+
+#dataset: "MUUFL"
+#dataset_root: 'D:\\Python\\Datasets\\MultiModalRS-Data\\HSI-LiDAR-MUUFL-Gulfport\\'
+#model_path:  "save/MUUFL-Gulfport"
+#seed: 111
+
+dataset: "Trento"
+dataset_root: 'E:\Academic\MultiModalRS-Data\\HSI-Lidar-Trento\\'
+model_path:  "save/Trento"
+seed: 42
+
+
+# data options
+patch_size: 9
+is_labeled_pixel: False
+
+# model options
+max_iter: 5
+kernel: 'rbf' # 'rbf' # if None, classic mode will be used, 'rbf', 'polynomial'
+anchor_type: 'k-means' # 'random', 'k-means', 'precomputed'
+smooth_coef: 1.15 #1.15  # must less than 0 or larger than 1
+lambda_TV: 0.0001  # $\alpha$, usually larger than 1  # or TV coefficient <= 10
+weight_decay: 10000 # $\gamma$, regularization
+n_anchor: 3
+# kernel approximating
+n_kernel_sampling: 300
+
+
+
+
+
