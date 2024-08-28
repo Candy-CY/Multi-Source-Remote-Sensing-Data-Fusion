@@ -1,0 +1,15 @@
+# Mixing Self-Attention and Convolution Network: A Uniﬁed Framework for Multisource Remote Sensing Data Classification
+This is the offical code for paper "Mixing Self-Attention and Convolution: A Unified Framework for Multisource Remote Sensing Data Classification", [Paper](https://ieeexplore.ieee.org/document/10236462).
+Author: Ke Li; Di Wang; Xu Wang; Gang Liu; Zili Wu; Quan Wang
+Key Laboratory of Smart Human–Computer Interaction and Wearable Technology of Shaanxi Province, School of Computer Science and Technology, Xidian University, Xi’an, China
+```
+@ARTICLE{10236462,
+  author={Li, Ke and Wang, Di and Wang, Xu and Liu, Gang and Wu, Zili and Wang, Quan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Mixing Self-Attention and Convolution: A Unified Framework for Multisource Remote Sensing Data Classification}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2023.3310521}}
+```
