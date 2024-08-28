@@ -5,4 +5,5 @@ MACN：Mixing Self-Attention and Convolution Network: A Uniﬁed Framework for M
 MAHiDFNet：Multi-attentive hierarchical dense fusion net for fusion classification of hyperspectral and LiDAR data (2022)  
 NNCNet：Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification (2023)  
 RPF-Net：Recurrent Progressive Fusion-based Learning for Multi-source Remote Sensing Image Classification (2023)  
-SOSSF: Landsat-8 image synthesis on the blending of Sentinel-1 and MODIS data (2023)
+SOSSF: Landsat-8 image synthesis on the blending of Sentinel-1 and MODIS data (2023)  
+SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification (2023)  
