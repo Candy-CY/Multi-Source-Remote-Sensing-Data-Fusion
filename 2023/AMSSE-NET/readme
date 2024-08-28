@@ -1,0 +1,7 @@
+# AMSSE-NET: Adaptive Multiscale Spatial–Spectral Enhancement Network for Classification of Hyperspectral and LiDAR Data
+This code in this toolbox implements the "AMSSE-NET: Adaptive Multiscale Spatial–Spectral Enhancement Network for Classification of Hyperspectral and LiDAR Data".
+![1699440234163](https://github.com/haofeng0003/AMSSE-Net/assets/113867748/0f2680f3-eafd-4fc1-9e9e-fd53b0094ae8)
+# Citation
+Please kindly cite the papers if this code is useful for your research.
+# How to use it?
+python main.py
