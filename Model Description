@@ -1,7 +1,8 @@
-AMKSC: Learning Unified Anchor Graph for Joint Clustering of Hyperspectral and LiDAR Data  
-AMSSE-NET: Adaptive Multiscale Spatial–Spectral Enhancement Network for Classification of Hyperspectral and LiDAR Data  
-DSHFNet: Dynamic Scale Hierarchical Fusion Network Based on Multiattention for Hyperspectral Image and LiDAR Data Classification  
-MACN：Mixing Self-Attention and Convolution Network: A Uniﬁed Framework for Multisource Remote Sensing Data Classification  
-MAHiDFNet：Multi-attentive hierarchical dense fusion net for fusion classification of hyperspectral and LiDAR data  
-NNCNet：Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification  
-RPF-Net：Recurrent Progressive Fusion-based Learning for Multi-source Remote Sensing Image Classification  
+AMKSC: Learning Unified Anchor Graph for Joint Clustering of Hyperspectral and LiDAR Data (2023)  
+AMSSE-NET: Adaptive Multiscale Spatial–Spectral Enhancement Network for Classification of Hyperspectral and LiDAR Data (2023)  
+DSHFNet: Dynamic Scale Hierarchical Fusion Network Based on Multiattention for Hyperspectral Image and LiDAR Data Classification (2023)  
+MACN：Mixing Self-Attention and Convolution Network: A Uniﬁed Framework for Multisource Remote Sensing Data Classification (2023)  
+MAHiDFNet：Multi-attentive hierarchical dense fusion net for fusion classification of hyperspectral and LiDAR data (2023)  
+NNCNet：Nearest Neighbor-Based Contrastive Learning for Hyperspectral and LiDAR Data Classification (2023)  
+RPF-Net：Recurrent Progressive Fusion-based Learning for Multi-source Remote Sensing Image Classification (2023)  
+SOSSF: Landsat-8 image synthesis on the blending of Sentinel-1 and MODIS data (2023)
