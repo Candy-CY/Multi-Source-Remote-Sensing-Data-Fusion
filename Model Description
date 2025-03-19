@@ -10,4 +10,5 @@ SOSSF: Landsat-8 image synthesis on the blending of Sentinel-1 and MODIS data (2
 SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification (2023)  
 MFT：Multimodal Fusion Transformer for Remote Sensing Image Classification (2022)  
 MFT：Transformer-Models-for-Multimodal-Remote-Sensing-Data (2023)  
-HLMamba：Joint Classification of Hyperspectral and LiDAR Data Based on Mamba (2024)
+HLMamba：Joint Classification of Hyperspectral and LiDAR Data Based on Mamba (2024)  
+NCGLF2: Network combining global and local features for fusion of multisource remote sensing data(2024)  
