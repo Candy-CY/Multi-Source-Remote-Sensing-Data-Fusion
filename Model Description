@@ -15,3 +15,6 @@ NCGLF2: Network combining global and local features for fusion of multisource re
 SFA-DFNet：Remote sensing image interpretation of geological lithology via a sensitive feature self-aggregation deep fusion network (2025)  
 DSymFuser：Deep Symmetric Fusion Transformer for Multimodal Remote Sensing Data Classification (2024)  
 AMSFN：Adaptive Multi-Stage Fusion of Hyperspectral and LiDAR Data via Selective State Space Models (2025)
+MLFIN：Geological Remote Sensing Interpretation via Multilevel Feature Integration Network (2026)  
+MGALNet：Multisource Remote Sensing Interpretation of Geological Lithology via Multigranularity Adaptive Learning (2026)  
+CFSINet：Multi-source complementary feature self-integration network for geological lithology interpretation (2026)  
